@@ -7,7 +7,7 @@
 - **Interactive DNA Visualizations**: Visualize DNA sequences and chromosomes to understand genetic information.
 - **Educational Games**: Fun, interactive games that teach inheritance patterns and genetic traits.
 - **Explore Your Genetic Makeup**: Learn about traits passed down through generations in an interactive way.
-- **User-Friendly Design**: Easy-to-navigate UI with smooth interactions, powered by Tailwind CSS for modern and responsive styling.
+- **User-Friendly Design**: Easy-to-navigate UI with smooth interactions, powered by Tailwind CSS for modern and responsive styling
 
 ## Tech Stack 🛠️
 # GeneSnap
